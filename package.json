@@ -1,0 +1,22 @@
+{
+    "name": "Factory",
+    "descprition": "A toy factory to practice BDD",
+    "version": "0.0.1",
+    "author": {
+        "name": "Randal Kamradt Sr",
+        "email": "randysr@kamradtfamily.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rkamradt/factoryshopjs.git"
+    },
+    "engines": {
+        "node >= 0.6.2"
+    },
+    "licence": "Apache 2.0",
+    "dependencies": {
+    },
+    "bin": {
+        "run": "./run.js"
+    }
+}
