@@ -10,9 +10,9 @@
         "type": "git",
         "url": "https://github.com/rkamradt/factoryshopjs.git"
     },
-    "engines": {
+    "engines": [
         "node >= 0.6.2"
-    },
+    ],
     "licence": "Apache 2.0",
     "dependencies": {
         "jasmine-node": ">=1.14.0"
